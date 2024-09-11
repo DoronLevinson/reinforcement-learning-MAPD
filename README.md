@@ -58,7 +58,7 @@ The input to the program is a text file that defines the environment. The input 
 2. Provide the input files in the specified format (`input1.txt`, `input2.txt`).
 3. Run the Python script:
 
-   ```bash
+   ```ruby
    python reinforcement_learning_MAPD.py
    ```
 
